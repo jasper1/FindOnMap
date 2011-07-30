@@ -7,14 +7,14 @@
         <target device="android">true</target>
         <target device="blackberry">false</target>
     </deployment-targets>
-    <id>org.example.findonmap</id>
-    <name>FindOnMap</name>
-    <version>1.0</version>
-    <publisher>konstantin</publisher>
-    <url>http://</url>
-    <description>not specified</description>
-    <copyright>2011 by konstantin</copyright>
-    <icon>appicon.png</icon>
+<id>org.example.findonmap</id>
+<name>FindOnMap</name>
+<version>1.0</version>
+<publisher>konstantin</publisher>
+<url>http://</url>
+<description>not specified</description>
+<copyright>2011 by konstantin</copyright>
+<icon>default_app_logo.png</icon>
     <persistent-wifi>false</persistent-wifi>
     <prerendered-icon>false</prerendered-icon>
     <statusbar-style>default</statusbar-style>
